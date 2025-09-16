@@ -1,4 +1,6 @@
-# 📱 Desafio: Programação Orientada a Objetos com .NET
+# WEX - End to End Engineering
+
+## Desafio: Programação Orientada a Objetos com .NET
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/fzanneti/dio-and-wex-cell-phone-challenge)
 ![GitHub forks](https://img.shields.io/github/forks/fzanneti/dio-and-wex-cell-phone-challenge?style=social)
@@ -18,7 +20,7 @@ O desafio consiste em desenvolver um sistema de console que simula o funcionamen
 
 ---
 
-### 🧩 Requisitos Técnicos
+### Requisitos Técnicos
 
 - A classe `Smartphone` deve ser **abstrata** e servir como modelo base para os demais celulares.
 - As classes `Nokia` e `Iphone` devem **herdar** da classe `Smartphone`.
@@ -26,7 +28,7 @@ O desafio consiste em desenvolver um sistema de console que simula o funcionamen
 
 ---
 
-### 🛠️ Estrutura de Classes
+### Estrutura de Classes
 
 ```
 
@@ -42,7 +44,7 @@ Smartphone (abstrata)
 
 ---
 
-### ✅ Funcionalidades Implementadas
+### Funcionalidades Implementadas
 
 * Criação de uma instância do `Nokia` e do `Iphone`
 * Chamada dos métodos:
@@ -53,7 +55,7 @@ Smartphone (abstrata)
 
 ---
 
-### 🧠 Conceitos Trabalhados
+### Conceitos Trabalhados
 
 * Abstração
 * Herança
@@ -64,9 +66,15 @@ Smartphone (abstrata)
 
 ---
 
-### 📌 Observações
+### Observações
 
 O código original fornecido pela DIO estava incompleto, com marcações `// TODO`. A proposta foi completada conforme as regras exigidas no enunciado e está disponível neste repositório.
+
+---
+
+### Certificado
+
+<img src="https://github.com/fzanneti/DIO-wex-e2e-csharp/blob/main/Assets/images/certificados/21-criando-um-sistema-e-abstraindo-um-celular-com-poo-em-CSharp.jpg" alt="Certificado" width="600px">
 
 ---
 
