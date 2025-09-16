@@ -72,6 +72,12 @@ O código original fornecido pela DIO estava incompleto, com marcações `// TOD
 
 ---
 
+### Desafio Vinculado ao Curso - DIO X WEX - End to End Engineering
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=DIO-wex-e2e-csharp&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/DIO-wex-e2e-csharp)
+
+---
+
 ### Certificado
 
 <img src="https://github.com/fzanneti/DIO-wex-e2e-csharp/blob/main/Assets/images/certificados/21-criando-um-sistema-e-abstraindo-um-celular-com-poo-em-CSharp.jpg" alt="Certificado" width="600px">
